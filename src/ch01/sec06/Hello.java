@@ -4,6 +4,6 @@ public class Hello {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("I can do it 06!!");
+		System.out.println("I can do \n it 06!!");
 	}
 }
